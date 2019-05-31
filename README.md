@@ -10,7 +10,7 @@ A simple utility python application to visualize pascal voc (format) dataset ima
 ## How to run
 
 ```bash
-python --root_dir [PASCAL VOC (format) dataset root directory] --type train
+python main.py --root_dir [PASCAL VOC (format) dataset root directory] --type train
 ```
 
 #### Keyboard Input Usage
