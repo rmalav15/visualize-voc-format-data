@@ -1,5 +1,5 @@
 # Visualize Voc Dataset
-A simple utility python application to visualize pascal voc (format) dataset images with bounding boxes. Useful to check whether there is any error in forming annotation files.
+A simple utility python application to visualize pascal voc (format) dataset images with bounding boxes. Useful to check whether there is any error in forming annotation files. 
 
 <img src='./output/hyang_video0_10045.jpg' width="500">
 
