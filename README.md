@@ -4,8 +4,12 @@ A simple utility python application to visualize pascal voc (format) dataset ima
 <img src='./output/hyang_video0_10045.jpg' width="500">
 
 ## Requirements
-- CV2
-- BeautifulSoup4
+- beautifulsoup4==4.9.1
+- install==1.3.3
+- lxml==4.5.2
+- numpy==1.19.1
+- opencv-python==4.4.0.40
+- soupsieve==2.0.1
 
 ## How to run
 
