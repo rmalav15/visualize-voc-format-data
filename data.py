@@ -18,6 +18,7 @@ class Data():
         self.image_name = image_name
         self.image_path = os.path.join(root_dir, "JPEGImages", image_name + ".jpg")
         self.annotation_path = os.path.join(root_dir, "Annotations", image_name + ".xml")
+        self.mask_path=os.path.join(root_dir,'SegmentationClass',image_name+'.png')
         self.annotations = self.load_masks()
 
     def load_masks(self):
